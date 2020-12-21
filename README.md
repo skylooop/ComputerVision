@@ -1,1 +1,1 @@
-Implementations of different CV nets
+Implementations of different CV nets and losses
