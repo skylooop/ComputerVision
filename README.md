@@ -1,1 +1,1 @@
-## Implementations of different CV nets and losses
+## Implementations of different models/metrics/architectures from scratch
