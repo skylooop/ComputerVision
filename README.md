@@ -1,1 +1,1 @@
-## Implementations of different models/metrics/architectures from scratch
+## Implementations of different models/metrics/architectures from scratch Pytorch
